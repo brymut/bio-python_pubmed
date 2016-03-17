@@ -1,0 +1,26 @@
+Dictionary data
+
+
+[MedlineCitation]
+				 [PMID]
+				 [MedlineJournalInfo]
+   				 [DateCompleted]
+   				 [MeshHeadingList]
+   				 [DateCreated]
+   				 [Article]
+   				 		  [ArticleDate]
+   				 		  [Pagination]
+   				 		  [AuthorList]
+   				 		  [Language]
+   				 		  [PublicationTypeList]
+   				 		  [Journal]
+   				 		  		   [ISSN]
+   				 		  		   [ISOAbbreviation]
+   				 		  		   [JournalIssue]
+   				 		  [Title]
+   				 [ArticleTitle]
+   				 [Abstract]
+   				 		   [AbstractText]
+   				 		   [CopyrightInformation]
+   				 [GrantList]
+
